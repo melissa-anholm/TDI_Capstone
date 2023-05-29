@@ -1,0 +1,215 @@
+{
+"PriceRecords": 
+[
+	{
+		"RegionID": 1883232,
+		"RegionName": "Bakersfield - CA",
+		"RegionCountryCode": 500000,
+		"RegionTypeID": 12,
+		"SubRegions": []
+	},
+	{
+		"RegionID": 1883287,
+		"RegionName": "Chico - CA",
+		"RegionCountryCode": 500000,
+		"RegionTypeID": 12,
+		"SubRegions": []
+	},
+	{
+		"RegionID": 1883335,
+		"RegionName": "El Centro - CA",
+		"RegionCountryCode": 500000,
+		"RegionTypeID": 12,
+		"SubRegions": []
+	},
+	{
+		"RegionID": 1883361,
+		"RegionName": "Fresno - CA",
+		"RegionCountryCode": 500000,
+		"RegionTypeID": 12,
+		"SubRegions": []
+	},
+	{
+		"RegionID": 1883384,
+		"RegionName": "Hanford-Corcoran - CA",
+		"RegionCountryCode": 500000,
+		"RegionTypeID": 12,
+		"SubRegions": []
+	},
+	{
+		"RegionID": 1883458,
+		"RegionName": "Los Angeles - CA",
+		"RegionCountryCode": 500000,
+		"RegionTypeID": 12,
+		"SubRegions": []
+	},
+	{
+		"RegionID": 1883463,
+		"RegionName": "Madera-Chowchilla - CA",
+		"RegionCountryCode": 500000,
+		"RegionTypeID": 12,
+		"SubRegions": []
+	},
+	{
+		"RegionID": 1883475,
+		"RegionName": "Merced - CA",
+		"RegionCountryCode": 500000,
+		"RegionTypeID": 12,
+		"SubRegions": []
+	},
+	{
+		"RegionID": 1883486,
+		"RegionName": "Modesto - CA",
+		"RegionCountryCode": 500000,
+		"RegionTypeID": 12,
+		"SubRegions": []
+	},
+	{
+		"RegionID": 1883498,
+		"RegionName": "Napa - CA",
+		"RegionCountryCode": 500000,
+		"RegionTypeID": 12,
+		"SubRegions": []
+	},
+	{
+		"RegionID": 1883508,
+		"RegionName": "Oakland - CA",
+		"RegionCountryCode": 500000,
+		"RegionTypeID": 12,
+		"SubRegions": []
+	},
+	{
+		"RegionID": 1883516,
+		"RegionName": "Orange County - CA",
+		"RegionCountryCode": 500000,
+		"RegionTypeID": 12,
+		"SubRegions": []
+	},
+	{
+		"RegionID": 1883545,
+		"RegionName": "Redding - CA",
+		"RegionCountryCode": 500000,
+		"RegionTypeID": 12,
+		"SubRegions": []
+	},
+	{
+		"RegionID": 1883548,
+		"RegionName": "Riverside - CA",
+		"RegionCountryCode": 500000,
+		"RegionTypeID": 12,
+		"SubRegions": []
+	},
+	{
+		"RegionID": 1883558,
+		"RegionName": "Sacramento - CA",
+		"RegionCountryCode": 500000,
+		"RegionTypeID": 12,
+		"SubRegions": []
+	},
+	{
+		"RegionID": 1883561,
+		"RegionName": "Salinas - CA",
+		"RegionCountryCode": 500000,
+		"RegionTypeID": 12,
+		"SubRegions": []
+	},
+	{
+		"RegionID": 1883566,
+		"RegionName": "San Bernardino - CA",
+		"RegionCountryCode": 500000,
+		"RegionTypeID": 12,
+		"SubRegions": []
+	},
+	{
+		"RegionID": 1883567,
+		"RegionName": "San Diego - CA",
+		"RegionCountryCode": 500000,
+		"RegionTypeID": 12,
+		"SubRegions": []
+	},
+	{
+		"RegionID": 1883568,
+		"RegionName": "San Francisco - CA",
+		"RegionCountryCode": 500000,
+		"RegionTypeID": 12,
+		"SubRegions": []
+	},
+	{
+		"RegionID": 1883569,
+		"RegionName": "San Jose - CA",
+		"RegionCountryCode": 500000,
+		"RegionTypeID": 12,
+		"SubRegions": []
+	},
+	{
+		"RegionID": 1883570,
+		"RegionName": "San Luis Obispo - CA",
+		"RegionCountryCode": 500000,
+		"RegionTypeID": 12,
+		"SubRegions": []
+	},
+	{
+		"RegionID": 1883571,
+		"RegionName": "San Rafael - CA",
+		"RegionCountryCode": 500000,
+		"RegionTypeID": 12,
+		"SubRegions": []
+	},
+	{
+		"RegionID": 1883572,
+		"RegionName": "Santa Barbara - CA",
+		"RegionCountryCode": 500000,
+		"RegionTypeID": 12,
+		"SubRegions": []
+	},
+	{
+		"RegionID": 1883573,
+		"RegionName": "Santa Cruz - CA",
+		"RegionCountryCode": 500000,
+		"RegionTypeID": 12,
+		"SubRegions": []
+	},
+	{
+		"RegionID": 1883575,
+		"RegionName": "Santa Rosa - CA",
+		"RegionCountryCode": 500000,
+		"RegionTypeID": 12,
+		"SubRegions": []
+	},
+	{
+		"RegionID": 1883605,
+		"RegionName": "Stockton - CA",
+		"RegionCountryCode": 500000,
+		"RegionTypeID": 12,
+		"SubRegions": []
+	},
+	{
+		"RegionID": 1883626,
+		"RegionName": "Vallejo-Fairfield - CA",
+		"RegionCountryCode": 500000,
+		"RegionTypeID": 12,
+		"SubRegions": []
+	},
+	{
+		"RegionID": 1883628,
+		"RegionName": "Ventura - CA",
+		"RegionCountryCode": 500000,
+		"RegionTypeID": 12,
+		"SubRegions": []
+	},
+	{
+		"RegionID": 1883632,
+		"RegionName": "Visalia-Porterville - CA",
+		"RegionCountryCode": 500000,
+		"RegionTypeID": 12,
+		"SubRegions": []
+	},
+	{
+		"RegionID": 1883660,
+		"RegionName": "Yuba City - CA",
+		"RegionCountryCode": 500000,
+		"RegionTypeID": 12,
+		"SubRegions": []
+	}
+]
+}

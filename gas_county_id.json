@@ -1,0 +1,242 @@
+
+{
+"RegionID": 300005,
+"MostExpensiveRanking": 1,
+"LeastExpensiveRanking": 50,
+"PriceRecords": 
+[
+{
+	"RegionID": 700189,
+	"RegionName": "County - CA - Alameda"
+},
+{
+	"RegionID": 700190,
+	"RegionName": "County - CA - Alpine"
+},
+{
+	"RegionID": 700191,
+	"RegionName": "County - CA - Amador"
+},
+{
+	"RegionID": 700192,
+	"RegionName": "County - CA - Butte"
+},
+{
+	"RegionID": 700193,
+	"RegionName": "County - CA - Calaveras"
+},
+{
+	"RegionID": 700194,
+	"RegionName": "County - CA - Colusa"
+},
+{
+	"RegionID": 700195,
+	"RegionName": "County - CA - Contra Costa"
+},
+{
+	"RegionID": 700196,
+	"RegionName": "County - CA - Del Norte"
+},
+{
+	"RegionID": 700197,
+	"RegionName": "County - CA - El Dorado"
+},
+{
+	"RegionID": 700198,
+	"RegionName": "County - CA - Fresno"
+},
+{
+	"RegionID": 700199,
+	"RegionName": "County - CA - Glenn"
+},
+{
+	"RegionID": 700200,
+	"RegionName": "County - CA - Humboldt"
+},
+{
+	"RegionID": 700201,
+	"RegionName": "County - CA - Imperial"
+},
+{
+	"RegionID": 700202,
+	"RegionName": "County - CA - Inyo"
+},
+{
+	"RegionID": 700203,
+	"RegionName": "County - CA - Kern"
+},
+{
+	"RegionID": 700204,
+	"RegionName": "County - CA - Kings"
+},
+{
+	"RegionID": 700205,
+	"RegionName": "County - CA - Lake"
+},
+{
+	"RegionID": 700206,
+	"RegionName": "County - CA - Lassen"
+},
+{
+	"RegionID": 700207,
+	"RegionName": "County - CA - Los Angeles"
+},
+{
+	"RegionID": 700208,
+	"RegionName": "County - CA - Madera"
+},
+{
+	"RegionID": 700209,
+	"RegionName": "County - CA - Marin"
+},
+{
+	"RegionID": 700210,
+	"RegionName": "County - CA - Mariposa"
+},
+{
+	"RegionID": 700211,
+	"RegionName": "County - CA - Mendocino"
+},
+{
+	"RegionID": 700212,
+	"RegionName": "County - CA - Merced"
+},
+{
+	"RegionID": 700213,
+	"RegionName": "County - CA - Modoc"
+},
+{
+	"RegionID": 700214,
+	"RegionName": "County - CA - Mono"
+},
+{
+	"RegionID": 700215,
+	"RegionName": "County - CA - Monterey"
+},
+{
+	"RegionID": 700216,
+	"RegionName": "County - CA - Napa"
+},
+{
+	"RegionID": 700217,
+	"RegionName": "County - CA - Nevada"
+},
+{
+	"RegionID": 700218,
+	"RegionName": "County - CA - Orange"
+},
+{
+	"RegionID": 700219,
+	"RegionName": "County - CA - Placer"
+},
+{
+	"RegionID": 700220,
+	"RegionName": "County - CA - Plumas"
+},
+{
+	"RegionID": 700221,
+	"RegionName": "County - CA - Riverside"
+},
+{
+	"RegionID": 700222,
+	"RegionName": "County - CA - Sacramento"
+},
+{
+	"RegionID": 700223,
+	"RegionName": "County - CA - San Benito"
+},
+{
+	"RegionID": 700224,
+	"RegionName": "County - CA - San Bernardino"
+},
+{
+	"RegionID": 700225,
+	"RegionName": "County - CA - San Diego"
+},
+{
+	"RegionID": 700226,
+	"RegionName": "County - CA - San Francisco"
+},
+{
+	"RegionID": 700227,
+	"RegionName": "County - CA - San Joaquin"
+},
+{
+	"RegionID": 700228,
+	"RegionName": "County - CA - San Luis Obispo"
+},
+{
+	"RegionID": 700229,
+	"RegionName": "County - CA - San Mateo"
+},
+{
+	"RegionID": 700230,
+	"RegionName": "County - CA - Santa Barbara"
+},
+{
+	"RegionID": 700231,
+	"RegionName": "County - CA - Santa Clara"
+},
+{
+	"RegionID": 700232,
+	"RegionName": "County - CA - Santa Cruz"
+},
+{
+	"RegionID": 700233,
+	"RegionName": "County - CA - Shasta"
+},
+{
+	"RegionID": 700234,
+	"RegionName": "County - CA - Sierra"
+},
+{
+	"RegionID": 700235,
+	"RegionName": "County - CA - Siskiyou"
+},
+{
+	"RegionID": 700236,
+	"RegionName": "County - CA - Solano"
+},
+{
+	"RegionID": 700237,
+	"RegionName": "County - CA - Sonoma"
+},
+{
+	"RegionID": 700238,
+	"RegionName": "County - CA - Stanislaus"
+},
+{
+	"RegionID": 700239,
+	"RegionName": "County - CA - Sutter"
+},
+{
+	"RegionID": 700240,
+	"RegionName": "County - CA - Tehama"
+},
+{
+	"RegionID": 700241,
+	"RegionName": "County - CA - Trinity"
+},
+{
+	"RegionID": 700242,
+	"RegionName": "County - CA - Tulare"
+},
+{
+	"RegionID": 700243,
+	"RegionName": "County - CA - Tuolumne"
+},
+{
+	"RegionID": 700244,
+	"RegionName": "County - CA - Ventura"
+},
+{
+	"RegionID": 700245,
+	"RegionName": "County - CA - Yolo"
+},
+{
+	"RegionID": 700246,
+	"RegionName": "County - CA - Yuba"
+}
+	
+]
+}

@@ -1,0 +1,67 @@
+{
+"PriceRecords": 
+[
+{
+	"RegionID": 300100,
+	"RegionName": "Alberta",
+	"RegionCountryCode": 500001,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300101,
+	"RegionName": "British Columbia",
+	"RegionCountryCode": 500001,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300102,
+	"RegionName": "Manitoba",
+	"RegionCountryCode": 500001,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300103,
+	"RegionName": "New Brunswick",
+	"RegionCountryCode": 500001,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300104,
+	"RegionName": "Newfoundland",
+	"RegionCountryCode": 500001,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300105,
+	"RegionName": "Nova Scotia",
+	"RegionCountryCode": 500001,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300108,
+	"RegionName": "Ontario",
+	"RegionCountryCode": 500001,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300109,
+	"RegionName": "Prince Edward Island",
+	"RegionCountryCode": 500001,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300110,
+	"RegionName": "Quebec",
+	"RegionCountryCode": 500001,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300111,
+	"RegionName": "Saskatchewan",
+	"RegionCountryCode": 500001,
+	"RegionTypeID": 4
+}
+]
+
+}
+

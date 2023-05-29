@@ -1,0 +1,307 @@
+{
+"PriceRecords": 
+[
+{
+	"RegionID": 300001,
+	"RegionName": "Alaska",
+	"RegionCountryCode": 500000,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300002,
+	"RegionName": "Alabama",
+	"RegionCountryCode": 500000,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300003,
+	"RegionName": "Arkansas",
+	"RegionCountryCode": 500000,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300004,
+	"RegionName": "Arizona",
+	"RegionCountryCode": 500000,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300005,
+	"RegionName": "California",
+	"RegionCountryCode": 500000,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300006,
+	"RegionName": "Colorado",
+	"RegionCountryCode": 500000,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300007,
+	"RegionName": "Connecticut",
+	"RegionCountryCode": 500000,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300009,
+	"RegionName": "Delaware",
+	"RegionCountryCode": 500000,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300010,
+	"RegionName": "Florida",
+	"RegionCountryCode": 500000,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300011,
+	"RegionName": "Georgia",
+	"RegionCountryCode": 500000,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300012,
+	"RegionName": "Hawaii",
+	"RegionCountryCode": 500000,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300013,
+	"RegionName": "Iowa",
+	"RegionCountryCode": 500000,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300014,
+	"RegionName": "Idaho",
+	"RegionCountryCode": 500000,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300015,
+	"RegionName": "Illinois",
+	"RegionCountryCode": 500000,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300016,
+	"RegionName": "Indiana",
+	"RegionCountryCode": 500000,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300017,
+	"RegionName": "Kansas",
+	"RegionCountryCode": 500000,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300018,
+	"RegionName": "Kentucky",
+	"RegionCountryCode": 500000,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300019,
+	"RegionName": "Louisiana",
+	"RegionCountryCode": 500000,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300020,
+	"RegionName": "Massachusetts",
+	"RegionCountryCode": 500000,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300021,
+	"RegionName": "Maryland",
+	"RegionCountryCode": 500000,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300022,
+	"RegionName": "Maine",
+	"RegionCountryCode": 500000,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300023,
+	"RegionName": "Michigan",
+	"RegionCountryCode": 500000,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300024,
+	"RegionName": "Minnesota",
+	"RegionCountryCode": 500000,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300025,
+	"RegionName": "Missouri",
+	"RegionCountryCode": 500000,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300026,
+	"RegionName": "Mississippi",
+	"RegionCountryCode": 500000,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300027,
+	"RegionName": "Montana",
+	"RegionCountryCode": 500000,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300028,
+	"RegionName": "North Carolina",
+	"RegionCountryCode": 500000,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300029,
+	"RegionName": "North Dakota",
+	"RegionCountryCode": 500000,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300030,
+	"RegionName": "Nebraska",
+	"RegionCountryCode": 500000,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300031,
+	"RegionName": "New Hampshire",
+	"RegionCountryCode": 500000,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300032,
+	"RegionName": "New Jersey",
+	"RegionCountryCode": 500000,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300033,
+	"RegionName": "New Mexico",
+	"RegionCountryCode": 500000,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300034,
+	"RegionName": "Nevada",
+	"RegionCountryCode": 500000,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300035,
+	"RegionName": "New York",
+	"RegionCountryCode": 500000,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300036,
+	"RegionName": "Ohio",
+	"RegionCountryCode": 500000,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300037,
+	"RegionName": "Oklahoma",
+	"RegionCountryCode": 500000,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300038,
+	"RegionName": "Oregon",
+	"RegionCountryCode": 500000,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300039,
+	"RegionName": "Pennsylvania",
+	"RegionCountryCode": 500000,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300040,
+	"RegionName": "Rhode Island",
+	"RegionCountryCode": 500000,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300041,
+	"RegionName": "South Carolina",
+	"RegionCountryCode": 500000,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300042,
+	"RegionName": "South Dakota",
+	"RegionCountryCode": 500000,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300043,
+	"RegionName": "Tennessee",
+	"RegionCountryCode": 500000,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300044,
+	"RegionName": "Texas",
+	"RegionCountryCode": 500000,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300045,
+	"RegionName": "Utah",
+	"RegionCountryCode": 500000,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300046,
+	"RegionName": "Virginia",
+	"RegionCountryCode": 500000,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300047,
+	"RegionName": "Vermont",
+	"RegionCountryCode": 500000,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300048,
+	"RegionName": "Washington",
+	"RegionCountryCode": 500000,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300049,
+	"RegionName": "Wisconsin",
+	"RegionCountryCode": 500000,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300050,
+	"RegionName": "West Virginia",
+	"RegionCountryCode": 500000,
+	"RegionTypeID": 4
+},
+{
+	"RegionID": 300051,
+	"RegionName": "Wyoming",
+	"RegionCountryCode": 500000,
+	"RegionTypeID": 4
+}
+]
+
+}
+

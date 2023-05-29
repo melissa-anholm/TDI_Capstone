@@ -1,0 +1,17 @@
+
+{
+"PriceRecords": 
+[
+{
+	"RegionID": 500000,
+	"RegionCountryCode": 500000,
+	"RegionName": "USA"
+},
+{
+	"RegionID": 500001,
+	"RegionCountryCode": 500001,
+	"RegionName": "Canada"
+}
+]
+}
+
